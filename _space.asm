@@ -1,13 +1,4 @@
-;
-;
-;
-;
-;
-;
-;
-;
-;
-;
+; that the game) 
 
 assume cs:code
 data segment
